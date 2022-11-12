@@ -1,1 +1,4 @@
 Adding first line
+On branch front-end
+nothing to commit, working tree clean
+Adding second line
